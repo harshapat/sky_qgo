@@ -1,0 +1,10 @@
+.itemsList-ul {
+  list-style-type: disc;
+}
+
+.itemsList-ul li {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
